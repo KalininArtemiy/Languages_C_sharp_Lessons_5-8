@@ -41,7 +41,7 @@ void arithmetic_mean(int[,] array)
     {
       sum = sum + array[i,j];
     }
-    Console.Write($"{sum/array.GetLength(0)}  ");
+    Console.Write($"{Math.Round(sum/array.GetLength(0), 4)}  ");
     sum = 0;
   }
 }
