@@ -6,8 +6,8 @@
 [“Russia”, “Denmark”, “Kazan”] → []
 
 My solution:
-1 - Firstly we'll offer our users to enter the lengs of his massive.
+1 - Firstly we'll offer our users to enter the length of his massive.
 2 - Secodly user will enter his words into massive.
-3- Thirdly we will count how many words in the first massive < 3 chars
-4 - We will make a new empty massive, the lengs of the new maccive will equel the number of words in first massive with lenght < 3 chars
+3- Thirdly we will count how many words in the first massive <[] 3 chars
+4 - We will make a new empty massive, the length of the new maccive will equel the number of words in first massive with lenght < 3 chars
 5 - we will full the 2 massive.
