@@ -11,3 +11,6 @@ My solution:
 3- Thirdly we will count how many words in the first massive <[] 3 chars
 4 - We will make a new empty massive, the length of the new maccive will equel the number of words in first massive with lenght < 3 chars
 5 - we will full the 2 massive.
+
+
+(![Final Task image](image.png))
